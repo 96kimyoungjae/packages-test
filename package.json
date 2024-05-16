@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/96kimyoungjae/packages-test/issues"
   },
+  "publishConfig": {
+    "@96yj:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/96kimyoungjae/packages-test#readme"
 }
